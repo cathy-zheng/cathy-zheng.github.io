@@ -1,0 +1,50 @@
+img{
+    width: 23%;
+    float: right;
+}
+img:hover{
+    width:23%;
+    float: right;
+    transform: rotate(180deg)
+}
+h2{
+    line-height: 30%;
+}
+h3, p{
+    line-height: 50%;
+    font-size: 12pt;
+}
+ul{
+    line-height: 150%;
+    font-size: 12pt;
+}
+h3.boldItalic{
+    font-style: italic;
+}
+h3.thinItalic{
+    font-style: italic;
+    font-weight: 1;
+}
+.thinNormal{
+    font-style: normal;
+    font-weight: 1;
+}
+.container{
+    width: 70%;
+    padding-left: 15%;
+    margin-top: 100px;
+}
+.heading{
+    padding-left: 35%;
+}
+.rightSide{
+    float: right;
+    font-style: normal;
+    font-weight: 1;
+}
+.spacing{
+    margin-bottom: 0;
+    padding-bottom: 0;
+    font-weight: bold;
+    font-size: 17pt;
+}

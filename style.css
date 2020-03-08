@@ -1,9 +1,9 @@
 img{
-    width: 23%;
+    width: 18%;
     float: right;
 }
 img:hover{
-    width:23%;
+    width:18%;
     float: right;
     transform: rotate(180deg)
 }
